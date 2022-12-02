@@ -210,7 +210,7 @@ h3 {
 
 .contact__form-name input,
 .contact__form-email input {
-  width: 477px;
+  max-width: 477px;
 }
 
 .contact__form-name,
