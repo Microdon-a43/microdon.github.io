@@ -233,7 +233,7 @@ h3 {
 
 .contact-btn:hover {
   background-color: pink;
-  color: #fff;
+  color: #000;
 }
 
 .contact textarea::placeholder {
