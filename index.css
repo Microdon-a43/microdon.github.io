@@ -238,6 +238,7 @@ h3 {
 
 .contact textarea {
   resize: none;
+  padding: 15px 0 0 15px;
   width: 477px;
 }
 
