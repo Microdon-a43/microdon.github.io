@@ -236,6 +236,11 @@ h3 {
   color: #000;
 }
 
+.contact textarea {
+  resize: none;
+  width: 477px;
+}
+
 .contact textarea::placeholder {
   padding-top: 15px;
   padding-left: 15px;
